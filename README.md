@@ -3,10 +3,11 @@
 ### Objective:
 The objective of this analysis is to explore key indicators associated with heart disease using the Heart Disease dataset obtained from the CDC's Behavioral Risk Factor Surveillance System (BRFSS) for the year 2022. By applying logistic regression, we aim to identify significant variables influencing the likelihood of heart disease.
 ### Key Questions:
-Which variables have a significant effect on the likelihood of heart disease?
-What are the primary factors associated with heart disease risk?
-How does class imbalance impact model performance, and how can it be addressed?
-What insights can be derived from logistic regression model coefficients?
+1. What are the demographic and health-related variables associated with heart disease risk?
+2. How do factors such as age, gender, blood pressure, cholesterol levels, smoking status, diabetes status, obesity, physical activity, and alcohol consumption impact the likelihood of heart disease?
+3. What is the distribution of heart disease cases among different demographic groups?
+4. Can we identify patterns or correlations between variables and heart disease prevalence?
+5. Which machine learning algorithm provides the most accurate predictions for heart disease likelihood?
 ## Data Exploration and Visualization:
 ### Data Understanding:
 Explored the structure and variables in the dataset.
